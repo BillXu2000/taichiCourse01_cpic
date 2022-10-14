@@ -8,7 +8,7 @@
 
 ## 成功效果展示
 
-![fractal demo](./data/cpic.gif)
+![fractal demo](./data/cpic.mp4)
 
 ## 运行方式
 `python3 main.py`
